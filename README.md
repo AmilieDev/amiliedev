@@ -11,19 +11,17 @@ I'm always happy to review PRs too — as long as they aren't silly and don't br
 
 🏠 **Archcord** is ALWAYS looking for new members! Come join us at [archcord.org](https://archcord.org/) 🩷
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:FFB3CC&height=3)
 
 ### 🌸 Current Projects
 
-Currently working on: [Archer](https://github.com/amiliedev/archer)!
-
-I also worked on: [Sillicat](https://github.com/amiliedev/archer)!
-
-And: [Rithmos](https://github.com/AmilieDev/rithmos)!
+[![Archer](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=archer&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/archer)
+[![Sillicat](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=sillicat&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/sillicat)
+[![Rithmos](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=rithmos&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/rithmos)
 
 I don't really have anymore NOTABLE projects, feel free to dig through my repo tho 🩷
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:FFB3CC&height=3)
 
 ### 🛠️ Technologies
 
@@ -33,10 +31,13 @@ I don't really have anymore NOTABLE projects, feel free to dig through my repo t
 ![Linux](https://img.shields.io/badge/Linux-FF6B9D?style=for-the-badge&logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-FF6B9D?style=for-the-badge&logo=apple&logoColor=white)
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:FFB3CC&height=3)
 
-![Amilie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmilieDev&show_icons=true&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=fff0f5)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmilieDev&layout=compact&hide_border=true&title_color=FF6B9D&text_color=FF99BB&bg_color=fff0f5)
+### 📊 Stats
+
+![Streak](https://streak-stats.demolab.com?user=AmilieDev&hide_border=true&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideLabels=FF99BB&dates=FF99BB&background=0d1117&stroke=FF6B9D&currStreakNum=FFB3CC&sideNums=FFB3CC)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AmilieDev&show_icons=true&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)
 
 </div>
 
