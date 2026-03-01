@@ -15,8 +15,8 @@ I'm always happy to review PRs too — as long as they aren't silly and don't br
 
 ### 🌸 Current Projects
 
-I'm working on: [![Archer](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=archer&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/archer)
-I worked on: [![Sillicat](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=sillicat&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/sillicat)I als
+I'm working on: [![Archer](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=Archer&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/Archer)
+I worked on: [![Sillicat](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=sillicat-dist&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/sillicat-dist)I als
 I also worked on: [![Rithmos](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=rithmos&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/rithmos)
 
 I don't really have anymore NOTABLE projects, feel free to dig through my repo tho 🩷
