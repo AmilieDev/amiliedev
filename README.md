@@ -7,7 +7,7 @@
 I'm an amateur software developer from England!<br>
 I currently lead the **Archcord** project over at [this GitHub Organisation](https://github.com/archcord-community).
 
-💬 Need to reach me? Come say hi on [My Discord](https://discord.gg/QA4Q2pKTGY)!
+💬 Need to reach me? Come say hi on [My Discord](https://discord.gg/QA4Q2pKTGY)!<br>
 I'm always happy to review PRs too — as long as they aren't silly and don't break things 🩷
 
 🏠 **Archcord** is ALWAYS looking for new members! Come join us at [archcord.org](https://archcord.org/) 🩷
