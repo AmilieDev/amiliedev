@@ -28,8 +28,6 @@ I don't really have anymore NOTABLE projects, feel free to dig through my repo t
 
 ![Streak](https://streak-stats.demolab.com?user=AmilieDev&hide_border=true&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideLabels=FF99BB&dates=FF99BB&background=0d1117&stroke=FF6B9D&currStreakNum=FFB3CC&sideNums=FFB3CC)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AmilieDev&show_icons=true&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)
-
 ![Python](https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-FF6B9D?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-FF6B9D?style=for-the-badge&logo=c&logoColor=white)
