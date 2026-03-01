@@ -15,21 +15,11 @@ I'm always happy to review PRs too — as long as they aren't silly and don't br
 
 ### 🌸 Current Projects
 
-[![Archer](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=archer&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/archer)
-[![Sillicat](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=sillicat&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/sillicat)
-[![Rithmos](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=rithmos&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/rithmos)
+I'm working on: [![Archer](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=archer&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/archer)
+I worked on: [![Sillicat](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=sillicat&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/sillicat)I als
+I also worked on: [![Rithmos](https://github-readme-stats.vercel.app/api/pin/?username=AmilieDev&repo=rithmos&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)](https://github.com/AmilieDev/rithmos)
 
 I don't really have anymore NOTABLE projects, feel free to dig through my repo tho 🩷
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:FFB3CC&height=3)
-
-### 🛠️ Technologies
-
-![Python](https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-FF6B9D?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-FF6B9D?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF6B9D?style=for-the-badge&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-FF6B9D?style=for-the-badge&logo=apple&logoColor=white)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:FFB3CC&height=3)
 
@@ -38,6 +28,12 @@ I don't really have anymore NOTABLE projects, feel free to dig through my repo t
 ![Streak](https://streak-stats.demolab.com?user=AmilieDev&hide_border=true&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideLabels=FF99BB&dates=FF99BB&background=0d1117&stroke=FF6B9D&currStreakNum=FFB3CC&sideNums=FFB3CC)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AmilieDev&show_icons=true&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=FF99BB&bg_color=0d1117)
+
+![Python](https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FF6B9D?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-FF6B9D?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF6B9D?style=for-the-badge&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-FF6B9D?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
