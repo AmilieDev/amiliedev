@@ -16,9 +16,9 @@ I'm always happy to review PRs too — as long as they aren't silly and don't br
 
 ### 🌸 Current Projects
 
-I'm working on: [Archer](https://github.com/AmilieDev/Archer)<br>
-I worked on: [Sillicat](https://github.com/AmilieDev/sillicat-dist)<br>
-I also worked on: [Rithmos](https://github.com/AmilieDev/rithmos)<br>
+**I'm working on**: [Archer](https://github.com/AmilieDev/Archer)<br>
+_I worked on_: [Sillicat](https://github.com/AmilieDev/sillicat-dist)<br>
+_I also worked on_: [Rithmos](https://github.com/AmilieDev/rithmos)<br>
 <br>
 
 I don't really have anymore NOTABLE projects, feel free to dig through my repo tho 🩷
