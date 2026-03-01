@@ -1,5 +1,6 @@
 
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:FFB3CC&height=300&section=header&text=Hiya!%20I'm%20Amilie!&fontSize=90&fontColor=ffffff)
 
 ### 🌸 she/her · England · Amateur Dev 🌸
