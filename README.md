@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,100:FFDDE1&height=300&section=header&text=Hiya!%20I'm%20Amilie!&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,100:FFB7C5&height=300&section=header&text=Hiya!%20I'm%20Amilie!&fontSize=90&fontColor=ffffff)
 
 ### I'm an amateur software developer from England, and I go by she/her. I currently lead the Archcord project over at <a href="https://github.com/archcord-community">this GitHub Organisation</a>.
 ---
