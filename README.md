@@ -2,9 +2,10 @@
 
 <div align="center">
 
-### 🌸 she/her · England · Amateur Dev
+### 🌸 she/her · England · Amateur Dev 🌸
 
-I'm an amateur software developer from England! I currently lead the **Archcord** project over at [this GitHub Organisation](https://github.com/archcord-community).
+I'm an amateur software developer from England!<br>
+I currently lead the **Archcord** project over at [this GitHub Organisation](https://github.com/archcord-community).
 
 💬 Need to reach me? Come say hi on [My Discord](https://discord.gg/QA4Q2pKTGY)!
 I'm always happy to review PRs too — as long as they aren't silly and don't break things 🩷
