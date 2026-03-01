@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:FFB3CC&height=300&section=header&text=Hiya!%20I'm%20Amilie!&fontSize=90&fontColor=ffffff)
 
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:FFB3CC&height=300&section=header&text=Hiya!%20I'm%20Amilie!&fontSize=90&fontColor=ffffff)
 
 ### 🌸 she/her · England · Amateur Dev 🌸
 
@@ -35,6 +35,5 @@ _I also worked on_: [Rithmos](https://github.com/AmilieDev/rithmos)<br>
 ![Linux](https://img.shields.io/badge/Linux-FF6B9D?style=for-the-badge&logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-FF6B9D?style=for-the-badge&logo=apple&logoColor=white)
 
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB3CC,100:FF6B9D&section=footer&height=150)
+</div>
