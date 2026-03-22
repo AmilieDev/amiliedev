@@ -15,5 +15,3 @@ I'm always looking for projects to contribute to - or contributors to my project
 _I worked on_: [Sillicat](https://github.com/AmilieDev/sillicat-dist)<br>
 _I also worked on_: [Rithmos](https://github.com/AmilieDev/rithmos)<br>
 <br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:FFB3CC&height=3)
