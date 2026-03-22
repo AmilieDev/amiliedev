@@ -10,4 +10,6 @@ I'm always looking for projects to contribute to - or contributors to my project
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:FFB3CC&height=3)
 
 ### 🌸 Current Projects 🌸
-Currently, I'm looking for new projects to begin with cool new ideas. If you have any cool ideas for a project you'd like me to start, reach out!
+Currently, I'm looking for new projects to begin with cool new ideas. If you have any cool ideas for a project you'd like me to start, reach out
+
+I have in the past worked with Java on Minecraft, general web stacks including Docker, JS and ExpressJS.
