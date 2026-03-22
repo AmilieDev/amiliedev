@@ -1,5 +1,6 @@
 <div align="center">
   
+### Hiya! I'm Amilie
 ### 🌸 she/her · England · Amateur Dev 🌸
 
 I'm an amateur software developer from England!<br>
